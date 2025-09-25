@@ -1,0 +1,2 @@
+This dashboard provides an analysis of the 2025 Marketing Campaign Performance across multiple channels (Facebook, Instagram, and Pinterest). It tracks key performance indicators (KPIs) such as Total Revenue, Profit, ROI %, and Engagement, while also breaking down performance by device type and campaign season.
+<img width="3837" height="63" alt="image" src="https://github.com/user-attachments/assets/d76eac5c-59fd-4919-b54b-92b2c39a241e" />
